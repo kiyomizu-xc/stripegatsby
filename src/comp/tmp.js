@@ -32,7 +32,7 @@ const btnclick = async event => {
 const tmp = () => {
     return (
         <button style={btn} onClick={btnclick}>
-            Click and buy
+            buy one cup coffeer
         </button>
     )
 }
