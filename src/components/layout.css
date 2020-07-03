@@ -15,7 +15,13 @@ figcaption,
 figure,
 footer,
 header,
-main,
+main{
+  height: 100%;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+},
 menu,
 nav,
 section,
