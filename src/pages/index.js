@@ -11,7 +11,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <div>coffee shop</div>
     <div className="tmp">
-      <Tmp></Tmp>
+      <Tmp/>
     </div>
   </Layout>
 )
